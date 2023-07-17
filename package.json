@@ -1,0 +1,22 @@
+{
+  "name": "rsindhur-cmd_nmpmpkgs",
+  "version": "1.0.0",
+  "description": "newpkg",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },  
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsindhu-cmd/npmpkgs.git"
+  },
+  "author": "ramya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsindhu-cmd/npmpkgs/issues"
+  },
+  "homepage": "https://github.com/rsindhu-cmd/npmpkgs#readme"
+}
